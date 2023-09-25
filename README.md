@@ -15,7 +15,7 @@ Before diving into password management bliss, ensure you have the following prer
 1. Clone or download this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/dogus49/Password-Manager-Shell-Script.git
    ```
 
 2. Navigate to the directory where you have saved the script using your terminal.
